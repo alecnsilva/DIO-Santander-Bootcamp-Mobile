@@ -2,7 +2,7 @@
 Santander Bootcamp | Mobile Developer | 2021
 
 ## Sobre o Bootcamp
-<img src="https://github.com/alecnsilva/DIO-Santander-Bootcamp-Mobile/blob/main/_assets/DioSantanderMobile.png" align="right" height="110" width="110"> O bootcamp é uma iniciativa do Santander através do programa de bolsas de estudo [**Becas Santander**](https://www.becas-santander.com/) em parceria com a [DIO](https://digitalinnovation.one/). O Bootcamp consiste em desenvolver as habilidades necessárias para criar aplicativos mobile nativos para Android e aplicar as melhores práticas utilizadas por experts do mercado em desenvolvimento mobile. 
+<img src="https://github.com/alecnsilva/DIO-Santander-Bootcamp-Mobile/blob/develop/_assets/DioSantanderMobile.png" align="right" height="110" width="110"> O bootcamp é uma iniciativa do Santander através do programa de bolsas de estudo [**Becas Santander**](https://www.becas-santander.com/) em parceria com a [DIO](https://digitalinnovation.one/). O Bootcamp consiste em desenvolver as habilidades necessárias para criar aplicativos mobile nativos para Android e aplicar as melhores práticas utilizadas por experts do mercado em desenvolvimento mobile. 
 
 ## Tecnologias e habilidades exploradas
 
