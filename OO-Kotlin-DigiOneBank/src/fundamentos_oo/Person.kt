@@ -1,6 +1,6 @@
 package fundamentos_oo
 
-// Outer Class
+// Outer Class (Members Class)
 class Person {
 
     var name: String = "Alec N. Silva"
@@ -12,6 +12,10 @@ class Person {
     /* inner class Address {
           var location: String = "Rua da Minha casa"
     }*/
+
+    constructor()
+
+    fun personInfo() = "$name e $id"
 }
 
 fun main() {
@@ -21,6 +25,8 @@ fun main() {
     println(alec) // memory location ref.
     println(alec.name)
     println(alec.id)
+    println("-----\n")
+    println(alec.personInfo())
 
     // println(alec.Address().location)
 }
