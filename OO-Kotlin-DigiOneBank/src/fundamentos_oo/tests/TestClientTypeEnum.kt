@@ -11,9 +11,9 @@ fun main() {
         println("${it.name} - ${it.descricao}\n")
     }
 
-    val Pf = ClientType.Pf
-    println(">> ${Pf.name} - ${Pf.descricao}")
+    val pf = ClientType.Pf
+    println(">> ${pf.name} - ${pf.descricao}")
 
-    val Pj = ClientType.Pj
-    println(">> ${Pj.name} - ${Pj.descricao}")
+    val pj = ClientType.Pj
+    println(">> ${pj.name} - ${pj.descricao}")
 }
